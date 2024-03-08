@@ -220,19 +220,19 @@
     "url": "https://nas-status.diygod.me",
     "icon": "https://icons.duckduckgo.com/ip3/nas-status.diygod.me.ico",
     "slug": "personal-nas-status",
-    "status": "down",
-    "uptime": "99.35%",
-    "uptimeDay": "90.96%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.35%",
-    "time": 3193,
-    "timeDay": 5890,
-    "timeWeek": 4282,
-    "timeMonth": 3193,
-    "timeYear": 3193,
+    "status": "up",
+    "uptime": "99.27%",
+    "uptimeDay": "89.87%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.27%",
+    "time": 3107,
+    "timeDay": 5498,
+    "timeWeek": 4098,
+    "timeMonth": 3107,
+    "timeYear": 3107,
     "dailyMinutesDown": {
-      "2024-03-08": 130
+      "2024-03-08": 146
     }
   },
   {
