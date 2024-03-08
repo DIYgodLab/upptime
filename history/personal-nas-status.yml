@@ -1,7 +1,7 @@
 url: https://nas-status.diygod.me
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-08T08:00:36.785Z
+status: up
+code: 200
+responseTime: 788
+lastUpdated: 2024-03-08T08:16:29.059Z
 startTime: 2024-02-23T11:21:56.793Z
 generator: Upptime <https://github.com/upptime/upptime>
