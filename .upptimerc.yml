@@ -33,12 +33,6 @@ sites:
   - name: Personal - Miniflux
     url: $URL_PERSONALMINIFLUX
 
-  - name: Personal - n8n
-    url: $URL_PERSONALN8N
-    expectedStatusCodes:
-      - 200
-      - 401
-
   - name: Personal - NAS
     url: $URL_PERSONALNAS
 
@@ -53,9 +47,6 @@ sites:
 
   - name: Personal - Suannai
     url: 'https://suannai.cat'
-
-  - name: Personal - Pal
-    url: 'https://pal.diygod.me'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
