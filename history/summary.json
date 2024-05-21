@@ -282,19 +282,19 @@
     "url": "https://suannai.cat",
     "icon": "https://icons.duckduckgo.com/ip3/suannai.cat.ico",
     "slug": "personal-suannai",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 508,
-    "timeDay": 1829,
-    "timeWeek": 745,
-    "timeMonth": 481,
-    "timeYear": 508,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 506,
+    "timeDay": 1342,
+    "timeWeek": 703,
+    "timeMonth": 478,
+    "timeYear": 506,
     "dailyMinutesDown": {
-      "2024-05-21": 0
+      "2024-05-21": 13
     }
   }
 ]
