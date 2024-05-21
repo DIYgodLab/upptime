@@ -209,11 +209,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nas-status.diygod.me.ico",
     "slug": "personal-nas-status",
     "status": "up",
-    "uptime": "89.98%",
+    "uptime": "90.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
-    "uptimeYear": "89.98%",
+    "uptimeYear": "90.01%",
     "time": 1590,
     "timeDay": 1179,
     "timeWeek": 1142,
@@ -242,17 +242,16 @@
     "slug": "personal-rss-hub",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "97.38%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
     "time": 1841,
-    "timeDay": 6310,
+    "timeDay": 5484,
     "timeWeek": 4593,
     "timeMonth": 2489,
     "timeYear": 1841,
     "dailyMinutesDown": {
-      "2024-05-21": 5,
       "2024-05-20": 32,
       "2024-03-14": 53
     }
@@ -283,17 +282,19 @@
     "url": "https://suannai.cat",
     "icon": "https://icons.duckduckgo.com/ip3/suannai.cat.ico",
     "slug": "personal-suannai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 477,
-    "timeDay": 418,
-    "timeWeek": 388,
-    "timeMonth": 389,
-    "timeYear": 477,
-    "dailyMinutesDown": {}
+    "time": 508,
+    "timeDay": 1829,
+    "timeWeek": 745,
+    "timeMonth": 481,
+    "timeYear": 508,
+    "dailyMinutesDown": {
+      "2024-05-21": 0
+    }
   }
 ]
