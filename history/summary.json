@@ -4,19 +4,19 @@
     "url": "https://xlog.app",
     "icon": "https://icons.duckduckgo.com/ip3/xlog.app.ico",
     "slug": "public-x-log",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 617,
-    "timeDay": 418,
-    "timeWeek": 369,
-    "timeMonth": 463,
-    "timeYear": 617,
+    "time": 615,
+    "timeDay": 429,
+    "timeWeek": 375,
+    "timeMonth": 462,
+    "timeYear": 615,
     "dailyMinutesDown": {
-      "2024-05-25": 0
+      "2024-05-25": 5
     }
   },
   {
