@@ -4,9 +4,9 @@
     "url": "https://xlog.app",
     "icon": "https://icons.duckduckgo.com/ip3/xlog.app.ico",
     "slug": "public-x-log",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 387,
     "timeMonth": 458,
     "timeYear": 612,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-27": 0
+    }
   },
   {
     "name": "Public - RSSHub",
@@ -209,11 +211,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nas-status.diygod.me.ico",
     "slug": "personal-nas-status",
     "status": "up",
-    "uptime": "90.56%",
+    "uptime": "90.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "90.56%",
+    "uptimeYear": "90.61%",
     "time": 1547,
     "timeDay": 1206,
     "timeWeek": 977,
