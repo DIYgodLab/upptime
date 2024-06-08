@@ -1,7 +1,7 @@
 url: $URL_PERSONALMINIFLUX
-status: down
-code: 502
-responseTime: 858
-lastUpdated: 2024-06-08T13:22:33.492Z
+status: up
+code: 200
+responseTime: 745
+lastUpdated: 2024-06-08T13:28:54.477Z
 startTime: 2024-02-23T11:21:53.797Z
 generator: Upptime <https://github.com/upptime/upptime>
