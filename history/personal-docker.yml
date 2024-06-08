@@ -1,7 +1,7 @@
 url: $URL_PERSONALDOCKER
-status: down
-code: 502
-responseTime: 845
-lastUpdated: 2024-06-08T13:22:28.232Z
+status: up
+code: 200
+responseTime: 577
+lastUpdated: 2024-06-08T13:28:50.310Z
 startTime: 2024-02-23T11:21:52.126Z
 generator: Upptime <https://github.com/upptime/upptime>
