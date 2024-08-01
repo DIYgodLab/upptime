@@ -43,10 +43,10 @@
     "url": "https://docs.rsshub.app",
     "icon": "https://icons.duckduckgo.com/ip3/docs.rsshub.app.ico",
     "slug": "public-rss-hub-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 141,
@@ -55,6 +55,7 @@
     "timeMonth": 157,
     "timeYear": 141,
     "dailyMinutesDown": {
+      "2024-08-01": 1,
       "2024-03-18": 17
     }
   },
@@ -155,9 +156,9 @@
     "url": "$URL_PERSONALFOGMACHINE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "personal-fog-machine",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -167,6 +168,7 @@
     "timeMonth": 212,
     "timeYear": 265,
     "dailyMinutesDown": {
+      "2024-08-01": 0,
       "2024-03-16": 16
     }
   },
