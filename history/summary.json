@@ -4,9 +4,9 @@
     "url": "https://xlog.app",
     "icon": "https://icons.duckduckgo.com/ip3/xlog.app.ico",
     "slug": "public-x-log",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 424,
     "timeYear": 520,
     "dailyMinutesDown": {
+      "2024-08-08": 0,
       "2024-05-31": 18,
       "2024-05-27": 16
     }
@@ -51,7 +52,7 @@
     "uptimeYear": "99.99%",
     "time": 141,
     "timeDay": 206,
-    "timeWeek": 128,
+    "timeWeek": 131,
     "timeMonth": 154,
     "timeYear": 141,
     "dailyMinutesDown": {
@@ -164,7 +165,7 @@
     "uptimeYear": "99.99%",
     "time": 260,
     "timeDay": 113,
-    "timeWeek": 152,
+    "timeWeek": 161,
     "timeMonth": 196,
     "timeYear": 260,
     "dailyMinutesDown": {
@@ -215,11 +216,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nas-status.diygod.me.ico",
     "slug": "personal-nas-status",
     "status": "up",
-    "uptime": "86.11%",
+    "uptime": "86.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "55.54%",
-    "uptimeYear": "86.11%",
+    "uptimeMonth": "57.83%",
+    "uptimeYear": "86.16%",
     "time": 1277,
     "timeDay": 824,
     "timeWeek": 1002,
