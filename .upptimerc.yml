@@ -21,17 +21,8 @@ sites:
   - name: Personal - Blog
     url: 'https://diygod.cc'
 
-  - name: Personal - Archived Blog
-    url: 'https://archive.diygod.me'
-
-  - name: Personal - Docker
-    url: $URL_PERSONALDOCKER
-
   - name: Personal - Fog Machine
     url: $URL_PERSONALFOGMACHINE
-
-  - name: Personal - Miniflux
-    url: $URL_PERSONALMINIFLUX
 
   - name: Personal - NAS
     url: $URL_PERSONALNAS
