@@ -120,9 +120,9 @@
     "url": "$URL_PERSONALFOGMACHINE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "personal-fog-machine",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -132,6 +132,7 @@
     "timeMonth": 247,
     "timeYear": 250,
     "dailyMinutesDown": {
+      "2024-10-16": 0,
       "2024-03-16": 16
     }
   },
@@ -159,11 +160,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nas-status.diygod.me.ico",
     "slug": "personal-nas-status",
     "status": "up",
-    "uptime": "88.83%",
+    "uptime": "88.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.80%",
-    "uptimeYear": "88.83%",
+    "uptimeYear": "88.84%",
     "time": 1329,
     "timeDay": 1212,
     "timeWeek": 1157,
